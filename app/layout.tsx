@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.myhireroads.com"),
   
   title: {
-    default: "Professional Resume Services | MyHireRoads",
+    default: "Professional Resume Writing Services | MyHireRoads",
     template: "%s | My Hire Roads",
   },
   description:
